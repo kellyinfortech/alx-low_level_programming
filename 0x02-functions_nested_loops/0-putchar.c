@@ -2,7 +2,7 @@
 /**
 * main - print _putchar
 * is written by mbah
-* Return: 0
+* Return: 0 always
 */
 
 int main(void)
@@ -18,4 +18,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
